@@ -1,5 +1,5 @@
 # Braillseye
-This is a school project that can be used by blind people if speech recognition is added.
+This is a school project that can be used by blind people.
 
 Required modules :
   * pyttsx3
@@ -7,5 +7,5 @@ Required modules :
   * datetime
   * webbrowser
   * speech_recognition
-PLease do support this project. :)
+Please do support this project. :)
 
