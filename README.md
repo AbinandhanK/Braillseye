@@ -6,7 +6,6 @@ Required modules :
   * os
   * datetime
   * webbrowser
-  * speech_recognition (Which I'll be adding later this year)
-  
-  Please do support this project.
-  :)
+  * speech_recognition
+PLease do support this project. :)
+
