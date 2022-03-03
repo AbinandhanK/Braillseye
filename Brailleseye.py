@@ -9,7 +9,7 @@ engine.runAndWait()
 
 import pyttsx3
 engine = pyttsx3.init()
-engine.say("What do you want me to do ? ")
+engine.say("How can I help ? ")
 engine.runAndWait()
 
 #Collecting user Choices
